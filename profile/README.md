@@ -2,6 +2,8 @@
 
 ## Description
 
+This gitub has been migrated from https://github.com/Helios-Collabathon for continued development. 
+
 Helios Connect is a cross-chain verification dApp that enables users to create a single, provable identity spanning multiple blockchains. Born out of the Helios Collabathon, a 10-day event in September 2024, the Helios Connect MVP allows seamless integration of MultiversX and Injective wallets to create a unified cross-chain identity.
 
 Our mission is to empower a range of integrated cross-chain use cases, including KYC, cross-chain DAOs and governance, direct marketing, and more. The code is open-source, fully documented, and intended to inspire greater cross-chain connectivity and interoperability across the industry.
